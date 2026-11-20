@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-overig">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="overig" clip-path="url(#clip-overig)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="none" stroke="#e91e63" stroke-width="10">
+      <rect width="500" height="500" stroke="none"/>
+      <rect x="5" y="5" width="490" height="490" fill="none"/>
+    </g>
+    <g id="overig-2" data-name="overig" transform="translate(79.391 149.696)">
+      <path id="Path_11" data-name="Path 11" d="M36.748,26A22.748,22.748,0,1,0,59.5,48.748,22.771,22.771,0,0,0,36.748,26Z" transform="translate(65.618 51.557)" fill="#fff"/>
+      <path id="Path_12" data-name="Path 12" d="M48.748,26A22.748,22.748,0,1,0,71.5,48.748,22.771,22.771,0,0,0,48.748,26Z" transform="translate(121.861 51.557)" fill="#fff"/>
+      <path id="Path_13" data-name="Path 13" d="M83.5,48.748A22.748,22.748,0,1,0,60.748,71.5,22.771,22.771,0,0,0,83.5,48.748Z" transform="translate(178.104 51.557)" fill="#fff"/>
+      <path id="Path_14" data-name="Path 14" d="M13.729,100.305l75.6-75.6a5.686,5.686,0,0,0-8.041-8.041L1.667,96.284a5.681,5.681,0,0,0,0,8.041l79.617,79.617a5.686,5.686,0,1,0,8.041-8.041Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_15" data-name="Path 15" d="M133.326,96.284,53.709,16.667a5.686,5.686,0,0,0-8.041,8.041l75.6,75.6-75.6,75.6a5.686,5.686,0,1,0,8.041,8.041l79.617-79.617A5.681,5.681,0,0,0,133.326,96.284Z" transform="translate(206.225 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

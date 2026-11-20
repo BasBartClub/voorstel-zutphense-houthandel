@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-strategie">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="strategie" clip-path="url(#clip-strategie)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="none" stroke="#e91e63" stroke-width="10">
+      <rect width="500" height="500" stroke="none"/>
+      <rect x="5" y="5" width="490" height="490" fill="none"/>
+    </g>
+    <g id="marketing" transform="translate(95.711 101.203)">
+      <g id="Group_30" data-name="Group 30" transform="translate(13.601 85.41)">
+        <g id="Group_29" data-name="Group 29">
+          <path id="Path_20" data-name="Path 20" d="M290.121,347.782H277.347V162.31a15.674,15.674,0,0,0-15.656-15.656H233.14a15.674,15.674,0,0,0-15.656,15.656V347.782H185.049V246.343a15.674,15.674,0,0,0-15.656-15.656H140.842a15.674,15.674,0,0,0-15.656,15.656V347.782H92.751V295.247A15.674,15.674,0,0,0,77.1,279.591H48.544a15.674,15.674,0,0,0-15.656,15.656v52.534H19.425a5.824,5.824,0,1,0,0,11.648h270.7a5.824,5.824,0,1,0,0-11.648Zm-209.019,0H44.535V295.247a4.012,4.012,0,0,1,4.008-4.008H77.094a4.012,4.012,0,0,1,4.008,4.008v52.534Zm92.3,0H136.833V246.343a4.012,4.012,0,0,1,4.008-4.008h28.551a4.013,4.013,0,0,1,4.008,4.008Zm92.3,0H229.132V162.31a4.012,4.012,0,0,1,4.008-4.008h28.551a4.012,4.012,0,0,1,4.008,4.008V347.782Z" transform="translate(-13.601 -146.654)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_32" data-name="Group 32" transform="translate(63.539)">
+        <g id="Group_31" data-name="Group 31" transform="translate(0)">
+          <path id="Path_21" data-name="Path 21" d="M313.141,6.124a5.8,5.8,0,0,0-6.11-6.11c-.094,0-.186-.014-.282-.014H271.514a5.824,5.824,0,0,0,0,11.648H293.27L235.7,69.222,213.985,47.511a5.824,5.824,0,0,0-8.236,0l-104.7,104.7a5.824,5.824,0,0,0,8.236,8.236L209.867,59.864l21.712,21.712a5.825,5.825,0,0,0,8.237,0l61.692-61.691V39.575a5.824,5.824,0,0,0,11.648,0V6.406C313.155,6.311,313.145,6.219,313.141,6.124Z" transform="translate(-99.346)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_34" data-name="Group 34" transform="translate(43.908 170.822)">
+        <g id="Group_33" data-name="Group 33">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.824" cy="5.824" r="5.824" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
